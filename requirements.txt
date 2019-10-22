@@ -36,7 +36,7 @@ Unidecode==0.4.14
 WSME==0.8.0
 WebOb==1.5.1
 WebTest==2.0.18
-Werkzeug==0.9.4
+Werkzeug==0.15.3
 alabaster==0.7.7
 alembic==0.8.2.dev0
 amqp==1.4.9
