@@ -15,7 +15,7 @@ PasteScript==1.7.5
 Pillow==2.3.0
 Pint==0.6
 PyMySQL==0.6.6
-PyYAML==3.10
+PyYAML==5.1
 Pygments==2.1
 Routes==2.2
 SQLAlchemy==1.0.11
