@@ -271,7 +271,7 @@ unittest2==1.1.0
 urllib3==1.13.1
 virtualenv==1.11.6
 voluptuous==0.8.8
-waitress==0.8.8
+waitress==1.4.1
 warlock==1.1.0
 websockify==0.6.1
 wheel==0.29.0
