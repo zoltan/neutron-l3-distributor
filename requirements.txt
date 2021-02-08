@@ -101,7 +101,7 @@ happybase==0.8
 heat==6.0.0
 horizon==9.1.0
 html5lib==0.999
-httplib2==0.8
+httplib2==0.19.0
 ibm-db==2.0.5
 ibm-db-sa==0.3.1
 idna==2.0
