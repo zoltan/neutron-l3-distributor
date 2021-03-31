@@ -131,7 +131,7 @@ linecache2==1.0.0
 lockfile==0.8
 logilab-common==1.1.0
 logutils==0.3.3
-lxml==3.3.3
+lxml==4.6.3
 mccabe==0.2.1
 mock==1.3.0
 monotonic==0.6
