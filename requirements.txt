@@ -119,7 +119,7 @@ jsonschema==2.5.1
 junitxml==0.6
 kazoo==2.2.1.dev0
 keyring==7.3
-keystone==9.1.0
+keystone==15.0.1
 keystoneauth1==2.4.1
 keystonemiddleware==4.4.1
 kombu==3.0.33
