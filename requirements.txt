@@ -215,7 +215,7 @@ python-designateclient==2.1.0
 python-glanceclient==2.0.0
 python-heatclient==1.1.0
 python-keystoneclient==2.3.1
-python-ldap==2.4.17
+python-ldap==3.4.0
 python-magnumclient==2.0.0
 python-manilaclient==1.8.1
 python-memcached==1.53
