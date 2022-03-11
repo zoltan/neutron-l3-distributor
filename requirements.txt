@@ -144,7 +144,7 @@ networkx==1.11
 neutron==8.1.2
 neutron-fwaas==8.0.0
 neutron-lib==0.0.2
-nova==13.1.1
+nova==21.2.3
 numpy==1.8.2
 oauthlib==0.6.1
 openstacksdk==0.8.1
