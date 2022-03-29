@@ -171,7 +171,7 @@ oslo.vmware==2.5.0
 oslosphinx==4.3.0
 oslotest==2.3.0
 osprofiler==1.2.0
-paramiko==1.16.0
+paramiko==2.10.1
 passlib==1.6.5
 pathlib==1.0.1
 pbr==1.8.0
