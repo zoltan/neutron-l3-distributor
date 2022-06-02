@@ -100,7 +100,7 @@ hacking==0.10.2
 happybase==0.8
 heat==6.0.0
 horizon==9.1.0
-html5lib==0.999
+html5lib==0.99999999
 httplib2==0.8
 ibm-db==2.0.5
 ibm-db-sa==0.3.1
